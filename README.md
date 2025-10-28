@@ -5,6 +5,7 @@
 <img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="520px"/>
 </p>
 
+<!-- STATS -->
 
 
 <h1 align="center">Hi, I'm Fares 👋</h1>
