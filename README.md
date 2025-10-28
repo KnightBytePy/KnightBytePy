@@ -1,118 +1,126 @@
+<!-- ======================= -->
+<!-- HERO / TOP BANNER AREA -->
+<!-- ======================= -->
 <p align="center">
-  <img src="./assets/terminal_wave.gif" width="400px"/>
+<img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="520px"/>
 </p>
 
-<h1 align="center">Fares Jony</h1>
+
+
+<h1 align="center">Hi, I'm Fares 👋</h1>
 
 <p align="center">
-  <b>Applied Machine Learning & Data Science @ McGill</b><br/>
-  Forecasting • Risk Modeling • Churn Prevention • GenAI Assistants
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Production--Ready-success?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Forecasting-Temporal%20CV%20%7C%20LSTM%20%2B%20Prophet-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Explainability-SHAP%20Insights-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reproducible-Dockerized-lightgrey?style=flat-square&logo=docker" />
+  <b>Data Scientist @ McGill MDS | Applied ML & AI</b><br/>
+  I build machine learning systems that real teams can actually use.
 </p>
 
 <p align="center">
-  <b>Open to Data Science / ML roles (Intern / New Grad 2026)</b>
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/Code-Portfolio-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@email.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Actively looking for Data Science / ML roles (Intern / New Grad 2026)</b>
 </p>
 
 ---
 
-## 🚀 I Build ML That People Can Use
-- End-to-end: ingestion → feature engineering → model → explainability → dashboard
-- Not just “accuracy,” but “can the business act on this today”
-- Focused on high $ impact use cases: retention, credit risk, inventory, allocation
+## 🧠 What I Do
+- End-to-end ML: data → features → model → dashboard → decision
+- Forecasting and risk modeling in messy, high-stakes settings (retail demand, credit risk, portfolio allocation)
+- Explainable ML for non-technical stakeholders (SHAP, what-if simulation)
+- Reproducible delivery (Docker, VS Code Dev Containers)
 
 ---
 
-## 🔬 Core Projects
+## 🔥 Featured Projects
+These are built like products, not class assignments.
 
-### 🟣 Customer Churn Prediction + Retention Simulator
-<p float="left">
-  <img src="./assets/churn_dashboard.gif" width="420px"/>
+### 1. Customer Churn Intelligence Dashboard
+<p align="left">
+  <!-- dashboard / analytics-style animated charts -->
+  <img src="https://media.giphy.com/media/MZEIaQ799hT1VXMqz8/giphy.gif" width="400px"/>
 </p>
 
-**What it does**  
-- Predicts which customers are about to churn (SMOTE + XGBoost)  
-- F1 = 0.93 on churners (so we catch the at-risk group)  
-- Streamlit dashboard where managers can test “What if I offer a 10% discount / free month / upgrade?”
+**What it is**  
+- Churn model using SMOTE + XGBoost (F1 on churners = 0.93)  
+- Flags high-risk customers and simulates “what if we give this segment a 10% discount?”  
+- Delivered in Streamlit so non-technical teams can use it
 
 **Why it matters**  
-- This is built like a tool a retention team would actually use tomorrow
+- It's not “here’s a model,” it’s “here’s who to save today and how.”
 
-**Code**  
-[`customer-churn-streamlit`](https://github.com/YOUR_USERNAME/customer-churn-streamlit)
+**Repo:** [`customer-churn-streamlit`](https://github.com/YOUR_USERNAME/customer-churn-streamlit)
 
 ---
 
-### 🔵 ChronosBlend Retail Forecasting Engine
-<p float="left">
-  <img src="./assets/chronosblend_forecast.gif" width="420px"/>
+### 2. ChronosBlend: Retail Sales Forecasting Engine
+<p align="left">
+  <!-- animated stock/time-series style line trend -->
+  <img src="https://media.giphy.com/media/w2hGxjfmUiI3uWkm1K/giphy.gif" width="400px"/>
 </p>
 
-**Goal**  
-Forecast weekly sales for 45+ stores × departments (~421k rows), including promo spikes and seasonal events.
+**What it is**  
+- Hybrid LSTM + Prophet + XGBoost forecaster on ~421k rows of Walmart-style weekly sales  
+- Handles promo spikes, seasonal effects, macro signals
 
-**How**  
-- Hybrid ensemble:
-  - LSTM (short-term patterns)
-  - Prophet (seasonality, holidays)
-  - XGBoost (tabular price/promo/macro signals)
-- Time-aware CV and leakage-safe feature design
+**How it's built**  
+- Leakage-safe time-aware CV  
+- Rolling / lag features  
+- Holiday & promo awareness
 
 **Why it matters**  
-- Stock the right SKU in the right store at the right week
+- Helps planners avoid stockouts during high-demand weeks
 
-**Code**  
-[`chronosblend-forecasting`](https://github.com/YOUR_USERNAME/chronosblend-forecasting)
+**Repo:** [`chronosblend-forecasting`](https://github.com/YOUR_USERNAME/chronosblend-forecasting)
 
 ---
 
-### 🟠 Credit Risk Scoring + SHAP Explainability
-<p float="left">
-  <img src="./assets/shap_anim.gif" width="420px"/>
+### 3. Credit Risk Scoring + Explainability
+<p align="left">
+  <!-- neural-net / AI brain vibe -->
+  <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" width="400px"/>
 </p>
 
-**Goal**  
-Score borrower default risk and surface *why* they’re risky.
-
-**How**  
-- Gradient boosting model (XGBoost / CatBoost)
-- SHAP to generate human-readable rationales
-- Risk tiers for underwriting & compliance
+**What it is**  
+- Default probability model with gradient boosting  
+- SHAP explanations: “here’s exactly why this borrower is high risk”  
+- Outputs risk tiers underwriter teams can defend to compliance
 
 **Why it matters**  
-- Moves the conversation from “the model said no” to “here are the top 3 risk drivers for this applicant”
+- Turns “black box says no” into transparent, auditable reasoning
 
-**Code**  
-[`credit-risk-scoring`](https://github.com/YOUR_USERNAME/credit-risk-scoring)
+**Repo:** [`credit-risk-scoring`](https://github.com/YOUR_USERNAME/credit-risk-scoring)
 
 ---
 
-### 🟢 Portfolio Optimizer Research Platform
-**Context**  
-- Inspired by $500B+ AUM asset management workflows  
-- Multi-model risk integration (Bayesian mixtures, worst-case risk), transaction cost modeling
+### 4. Portfolio Optimizer Research (In Progress)
+<p align="left">
+  <!-- scrolling code / data stream vibe -->
+  <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400px"/>
+</p>
 
-**Why it matters**  
-- Helps PMs explore “What happens if we shift 2% into this asset?” with explainable tradeoffs  
-- Built for real allocation decisions, not just a Markowitz homework plot
+**What it is**  
+- Scenario-driven allocation engine inspired by $500B+ AUM asset management scale  
+- Multi-model risk integration + realistic transaction cost penalties  
+- Goal: “If we shift 2% here, what happens to risk, cost, and exposure?”
 
-**Status**  
-Private / in progress
+**Status:** Private / request access
 
 ---
 
-## 🧰 My Stack
+## 🛠 Tech Stack
 ```text
-Languages      : Python, SQL
-ML / Model Dev : scikit-learn, XGBoost, LightGBM, CatBoost
-Deep Learning  : PyTorch, Keras (LSTM), Prophet
-Forecasting    : Feature-rich time series, temporal CV, leakage control
-Apps           : Streamlit dashboards, FastAPI services
-Infra          : Docker, VS Code Dev Containers
-Explainability : SHAP
+Core      : Python, SQL, Pandas, NumPy
+Modeling  : Scikit-Learn, XGBoost, LightGBM, CatBoost
+Deep/TS   : PyTorch, Keras (LSTM), Prophet
+Apps      : Streamlit dashboards, FastAPI services
+Infra     : Docker, VS Code Dev Containers
+Explain   : SHAP / model interpretability
