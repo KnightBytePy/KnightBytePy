@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Aurelien's Hands-On Machine Learning with Scikit-Learn and PyTorch (on chapter 12 - CNNs) and planning on reading AI Engineering by Chip Huyen next! Please give me AI/ML book suggestions,I would love to read them and continously evolve.**
 
-- 👯 I’m looking to collaborate on **a Data Science/ML education game that i'm working on that takes a player from a beginner to a Data Scientist. Please reach out to me if you are a Sound Engineer, Art Designer, or just have any fun ideas/levels to collab with.**
+- 👯 I’m looking to collaborate on **a Data Science/ML education game that i'm working on that takes a player from a beginner to a Data Scientist. Please reach out to me if you are a Sound Engineer, Art Designer, or just have any fun ideas/levels to collab on.**
 
 - 💬 Ask me about **current book i'm reading! or "Why is Kafka fast?" (Hint: it's because it uses Sequential I/O instead of Random I/O and appends at the end of a list) or Ask me "WHAT IS BACKPROPAGATION FARES!?" so I can whip out my basketball shooting example **
 
