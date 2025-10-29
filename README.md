@@ -132,16 +132,16 @@ These are built like products, not class assignments.
 
 ---
 
-### 5. State of the Art - Digistal Twin Project using PyTorch | Transformers (In Progress)
+### 5. State of the Art - Digital Twin Project using PyTorch | Transformers | MCP | RAG (In Progress)
 <p align="left">
   <!-- scrolling code / data stream vibe -->
   <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400px"/>
 </p>
 
 **What it is**  
-- Scenario-driven allocation engine inspired by $500B+ AUM asset management scale  
-- Multi-model risk integration + realistic transaction cost penalties  
-- Goal: “If we shift 2% here, what happens to risk, cost, and exposure?”
+- Designed a digital twin that simulates customer response to discounts and campaigns; estimated heterogeneous treatment effects and individualized treatment rules using T-/X-/DR-learners and causal forests.
+- Learns budget-constrained policies via contextual bandits and offline RL (CQL/BCQ); validated with IPS/DR/SNIPS showing higher uplift@k and lower regret vs business-as-usual and strong XGBoost baselines.
+- Productionized with Spark/Delta pipelines, feature store, MLflow model registry, FastAPI microservices, Docker/Kubernetes, CI/CD, and drift/data-quality monitoring (Evidently/Great Expectations).
 
 **Status:** Private / request access
 
