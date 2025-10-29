@@ -63,7 +63,7 @@ These are built like products, not class assignments.
 
 
 **What it is**  
-- Churn model using SMOTE + XGBoost (F1 on churners = 0.93)  
+- Churn model using SMOTE + XGBoost (F1 on churners = 0.88)  
 - Flags high-risk customers and simulates “what if we give this segment a 10% discount?”  
 - Delivered in Streamlit so non-technical teams can use it
 
