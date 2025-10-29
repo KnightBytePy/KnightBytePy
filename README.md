@@ -21,9 +21,6 @@
 
 - ⚡ Fun fact **I played collegite E-Sports =)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
@@ -32,13 +29,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/KnightBytePy/Data-Science-Portfolio">
     <img src="https://img.shields.io/badge/Code-Portfolio-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@email.com">
+  <a href="mailto:knightpy6@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -76,11 +70,11 @@ These are built like products, not class assignments.
 **Why it matters**  
 - It's not “here’s a model,” it’s “here’s who to save today and how.”
 
-**Repo:** [`customer-churn-streamlit`](https://github.com/YOUR_USERNAME/customer-churn-streamlit)
+**Repo:** [`customer-churn-streamlit`](https://github.com/KnightBytePy/Data-Science-Portfolio/tree/main/01_Customer_Churn_Prediction_XGBoost_Streamlit)
 
 ---
 
-### 2. ChronosBlend: Retail Sales Forecasting Engine
+### 2. Hybrid Time Series Sales Forcasting - Tensorflow/Keras (LSTM) | Prophet | XGBoost | Hybrid Ensemble
 <p align="left">
   <!-- animated stock/time-series style line trend -->
   <img src="https://media.giphy.com/media/w2hGxjfmUiI3uWkm1K/giphy.gif" width="400px"/>
@@ -98,11 +92,11 @@ These are built like products, not class assignments.
 **Why it matters**  
 - Helps planners avoid stockouts during high-demand weeks
 
-**Repo:** [`chronosblend-forecasting`](https://github.com/YOUR_USERNAME/chronosblend-forecasting)
+**Repo:** [`chronosblend-forecasting`](https://github.com/KnightBytePy/Data-Science-Portfolio/tree/main/03_HybridTimeFusion%3A%20Forecasting%20with%20LSTM%2C%20Prophet%20%26%20XGBoost)
 
 ---
 
-### 3. Credit Risk Scoring + Explainability
+### 3. Credit Risk Default Pipeline 
 <p align="left">
   <!-- neural-net / AI brain vibe -->
   <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" width="400px"/>
@@ -116,7 +110,7 @@ These are built like products, not class assignments.
 **Why it matters**  
 - Turns “black box says no” into transparent, auditable reasoning
 
-**Repo:** [`credit-risk-scoring`](https://github.com/YOUR_USERNAME/credit-risk-scoring)
+**Repo:** [`credit-risk-scoring`](https://github.com/KnightBytePy/Data-Science-Portfolio/tree/main/02_Credit_Risk_Default-Pipeline)
 
 ---
 
@@ -134,11 +128,11 @@ These are built like products, not class assignments.
 **Why it matters**  
 - It's automated voice-of-customer analytics: you can point this at any product with reviews and instantly know what to fix first
 
-**Repo:** [`steam-reviews-segmentation`](https://github.com/YOUR_USERNAME/steam-reviews-segmentation)
+**Repo:** [`steam-reviews-segmentation`](https://github.com/KnightBytePy/Data-Science-Portfolio/tree/main/05_7MillionSteamReviews_NLP_UnSupervised)
 
 ---
 
-### 5. Portfolio Optimizer Research (In Progress)
+### 5. State of the Art - Digistal Twin Project using PyTorch | Transformers (In Progress)
 <p align="left">
   <!-- scrolling code / data stream vibe -->
   <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400px"/>
