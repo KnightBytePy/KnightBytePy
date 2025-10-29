@@ -51,7 +51,8 @@
 
 ## 🧠 What I Do
 - End-to-end ML: data → features → model → dashboard → decision
-- Forecasting and risk modeling in messy, high-stakes settings (retail demand, credit risk, portfolio allocation)
+- Forecasting & risk modeling in high-stakes settings (retail demand, credit risk, portfolio allocation)
+- Voice-of-customer NLP at scale (6M+ Steam reviews → topic clusters → player segments)
 - Explainable ML for non-technical stakeholders (SHAP, what-if simulation)
 - Reproducible delivery (Docker, VS Code Dev Containers)
 
@@ -60,11 +61,12 @@
 ## 🔥 Featured Projects
 These are built like products, not class assignments.
 
-### 1. Customer Churn Intelligence Dashboard
+### 1. Customer Churn Intelligence Dashboard <a href="https://fares-shawrma-churn-app.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE%20DEMO-Streamlit-brightgreen?style=for-the-badge&logo=streamlit" /></a>
 <p align="left">
   <!-- dashboard / analytics-style animated charts -->
   <img src="https://media.giphy.com/media/MZEIaQ799hT1VXMqz8/giphy.gif" width="400px"/>
 </p>
+
 
 **What it is**  
 - Churn model using SMOTE + XGBoost (F1 on churners = 0.93)  
@@ -118,7 +120,25 @@ These are built like products, not class assignments.
 
 ---
 
-### 4. Portfolio Optimizer Research (In Progress)
+### 4. Steam Reviews Segmentation & Topic Mining
+<p align="left">
+  <!-- data scan / NLP at scale vibe -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400px"/>
+</p>
+
+**What it is**  
+- Analyzed ~6,000,000 Steam game reviews to understand player sentiment, pain points, and engagement drivers  
+- NLP pipeline: text cleaning → TF-IDF → NMF topic modeling → SentenceTransformer embeddings → clustering  
+- Generated player segments (“performance complainers”, “balance grinders”, “content hunters”) a studio could target
+
+**Why it matters**  
+- It's automated voice-of-customer analytics: you can point this at any product with reviews and instantly know what to fix first
+
+**Repo:** [`steam-reviews-segmentation`](https://github.com/YOUR_USERNAME/steam-reviews-segmentation)
+
+---
+
+### 5. Portfolio Optimizer Research (In Progress)
 <p align="left">
   <!-- scrolling code / data stream vibe -->
   <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400px"/>
@@ -133,11 +153,21 @@ These are built like products, not class assignments.
 
 ---
 
+## 📈 Currently Building
+- 🧪 A real-time GenAI assistant for domain-specific recommendations (RAG + retrieval + scoring, not just “chatbot noise”)
+- 🎮 A data-science learning game that turns model training concepts (overfitting, bias, tuning) into actual gameplay loops
+  
+--- 
+
 ## 🛠 Tech Stack
 ```text
-Core      : Python, SQL, Pandas, NumPy
-Modeling  : Scikit-Learn, XGBoost, LightGBM, CatBoost
-Deep/TS   : PyTorch, Keras (LSTM), Prophet
-Apps      : Streamlit dashboards, FastAPI services
-Infra     : Docker, VS Code Dev Containers
-Explain   : SHAP / model interpretability
+Core        : Python, SQL, Pandas, NumPy
+Modeling    : Scikit-Learn, XGBoost, LightGBM, CatBoost
+Deep / TS   : PyTorch, Keras (LSTM), Prophet, time-aware CV
+NLP         : TF-IDF, NMF topic modeling, SentenceTransformer embeddings, clustering
+Apps        : Streamlit dashboards, FastAPI services
+Infra       : Docker, VS Code Dev Containers
+Explainability : SHAP / model interpretability
+
+
+
