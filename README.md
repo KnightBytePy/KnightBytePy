@@ -11,15 +11,15 @@
 <h1 align="center">Hi 👋, I'm Fares</h1>
 <h3 align="center"> Data Scientist Master's @ McGill | Applied ML & AI</h3>
 
-- 🔭 I’m currently working on **a state of the art digital twin promotion**
+- 🔭 I’m currently working on **many things, check down below!**
 
-- 🌱 I’m currently learning **Just finished Aurelien's Hands on ML using PyTorch(Oct-2025-edition) and planning on reading AI Engineering by Chip Huyen next! Please give me AI/ML book suggestions,I would love to read them and continous evolve in learning.**
+- 🌱 I’m currently learning **Aurelien's Hands-On Machine Learning with Scikit-Learn and PyTorch(Oct-2025-edition) and planning on reading AI Engineering by Chip Huyen next! Please give me AI/ML book suggestions,I would love to read them and continous evolve in learning.**
 
-- 👯 I’m looking to collaborate on **a ML education game that takes a beginner to Data Scientist**
+- 👯 I’m looking to collaborate on **a Data Science/ML education game that i'm working on that takes a player from a beginner to a Data Scientist. Please reach out to me if you are a Sound Engineer, Art Designer, or just have any fun ideas/levels to collab with.**
 
 - 💬 Ask me about **current book i'm reading!**
 
-- ⚡ Fun fact **I played collegite E-Sports =)**
+- ⚡ Fun fact **I played collegiate E-Sports =)**
 
 
 <h3 align="left">Languages and Tools:</h3>
