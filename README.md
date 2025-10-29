@@ -145,12 +145,7 @@ These are built like products, not class assignments.
 
 **Status:** Private / request access
 
----
 
-## 📈 Currently Building
-- 🧪 A real-time GenAI assistant for domain-specific recommendations (RAG + retrieval + scoring, not just “chatbot noise”)
-- 🎮 A data-science learning game that turns model training concepts (overfitting, bias, tuning) into actual gameplay loops
-  
 --- 
 
 ## 🛠 Tech Stack
