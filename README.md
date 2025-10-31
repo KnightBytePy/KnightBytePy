@@ -14,7 +14,7 @@
 </p>
 
 
-<h3 align="center"> Data Scientist Master's @ McGill | Applied ML & AI</h3>
+<h2 align="center"> Data Scientist Master's @ McGill | Applied ML & AI</h2>
 
 - 🔭 I’m currently working on **many things, check down below! I just finished a RAG Agent that summarizes my youtube videos to watch list =)**
 
