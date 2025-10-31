@@ -1,3 +1,10 @@
+
+
+<!-- STATS -->
+
+
+<h1 align="center">Hi 👋, I'm Fares</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knightbytepy&label=Profile%20views&color=0e75b6&style=flat" alt="knightbytepy" /> </p>
 <!-- ======================= -->
 <!-- HERO / TOP BANNER AREA -->
@@ -6,10 +13,7 @@
 <img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="520px"/>
 </p>
 
-<!-- STATS -->
 
-
-<h1 align="center">Hi 👋, I'm Fares</h1>
 <h3 align="center"> Data Scientist Master's @ McGill | Applied ML & AI</h3>
 
 - 🔭 I’m currently working on **many things, check down below!**
