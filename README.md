@@ -23,7 +23,7 @@
 
 - 💬 Ask me about  **current book i'm reading! or "Why is Kafka fast?" (Hint: it's because it uses Sequential I/O instead of Random I/O and appends at the end of a list) or Ask me "WHAT IS BACKPROPAGATION FARES!?" so I can whip out my basketball shooting example.**
 
-- ⚡ Fun fact **I played collegiate E-Sports =)**
+- ⚡ Fun fact **I played collegiate E-Sports!**
 
 
 <h3 align="left">Languages and Tools:</h3>
