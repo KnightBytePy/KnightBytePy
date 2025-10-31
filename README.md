@@ -10,13 +10,13 @@
 <!-- HERO / TOP BANNER AREA -->
 <!-- ======================= -->
 <p align="center">
-<img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="520px"/>
+<img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="480px"/>
 </p>
 
 
 <h3 align="center"> Data Scientist Master's @ McGill | Applied ML & AI</h3>
 
-- 🔭 I’m currently working on **many things, check down below!**
+- 🔭 I’m currently working on **many things, check down below! I just finished a RAG Agent that summarizes my youtube videos to watch list =)**
 
 - 🌱 I’m currently learning **Aurelien's Hands-On Machine Learning with Scikit-Learn and PyTorch (on chapter 12 - CNNs) and planning on reading AI Engineering by Chip Huyen next! Please give me AI/ML book suggestions,I would love to read them and continously evolve.**
 
