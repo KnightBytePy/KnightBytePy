@@ -16,7 +16,7 @@
 
 <h2 align="center"> Data Scientist Master's @ McGill | Applied ML & AI</h2>
 
-- 🔭 I’m currently working on **many things, check down below! I just finished a RAG Agent that summarizes my youtube videos to watch list =)**
+- 🔭 I’m currently working on **many things, check down below! I just finished a RAG Agent that summarizes my youtube videos on my watch list =)**
 
 - 🌱 I’m currently learning **Aurelien's Hands-On Machine Learning with Scikit-Learn and PyTorch (on chapter 12 - CNNs) and planning on reading AI Engineering by Chip Huyen next! Please give me AI/ML book suggestions,I would love to read them and continously evolve.**
 
