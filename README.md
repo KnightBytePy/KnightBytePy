@@ -1,7 +1,7 @@
 
 
 <!-- STATS -->
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 <h1 align="center">Hi 👋, I'm Fares</h1>
 
@@ -33,7 +33,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/KnightBytePy/Data-Science-Portfolio">
+  <a href="https://github.com/KnightBytePy?tab=repositories">
     <img src="https://img.shields.io/badge/Code-Portfolio-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:knightpy6@gmail.com">
@@ -74,8 +74,7 @@ These are built like products, not class assignments.
 **Why it matters**  
 - It's not “here’s a model,” it’s “here’s who to save today and how.”
 
-**Repo:** [`customer-churn-streamlit`](https://github.com/KnightBytePy/Data-Science-Portfolio/tree/main/01_Customer_Churn_Prediction_XGBoost_Streamlit)
-
+**Repo:** [`customer-churn-streamlit`](https://github.com/KnightBytePy/customer-churn-streamlit-xgboost)
 ---
 
 ### 2. Hybrid Time Series Sales Forcasting - Tensorflow/Keras (LSTM) | Prophet | XGBoost | Hybrid Ensemble
@@ -96,7 +95,7 @@ These are built like products, not class assignments.
 **Why it matters**  
 - Helps planners avoid stockouts during high-demand weeks
 
-**Repo:** [`chronosblend-forecasting`](https://github.com/KnightBytePy/Data-Science-Portfolio/tree/main/03_HybridTimeFusion%3A%20Forecasting%20with%20LSTM%2C%20Prophet%20%26%20XGBoost)
+**Repo:** [`chronosblend-forecasting`](https://github.com/KnightBytePy/hybrid-timeseries-forecasting)
 
 ---
 
@@ -114,7 +113,7 @@ These are built like products, not class assignments.
 **Why it matters**  
 - Turns “black box says no” into transparent, auditable reasoning
 
-**Repo:** [`credit-risk-scoring`](https://github.com/KnightBytePy/Data-Science-Portfolio/tree/main/02_Credit_Risk_Default-Pipeline)
+**Repo:** [`credit-risk-scoring`](https://github.com/KnightBytePy/credit-risk-default-prediction)
 
 ---
 
@@ -132,7 +131,7 @@ These are built like products, not class assignments.
 **Why it matters**  
 - It's automated voice-of-customer analytics: you can point this at any product with reviews and instantly know what to fix first
 
-**Repo:** [`steam-reviews-segmentation`](https://github.com/KnightBytePy/Data-Science-Portfolio/tree/main/05_7MillionSteamReviews_NLP_UnSupervised)
+**Repo:** [`steam-reviews-segmentation`](https://github.com/KnightBytePy/7Msteam-reviews-unsupervised-nlp)
 
 ---
 
