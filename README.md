@@ -157,13 +157,15 @@ These are built like products, not class assignments.
 
 ## 🛠 Tech Stack
 ```text
-Core        : Python, SQL, Pandas, NumPy
-Modeling    : Scikit-Learn, XGBoost, LightGBM, CatBoost
-Deep / TS   : PyTorch, Keras (LSTM), Prophet, time-aware CV
-NLP         : TF-IDF, NMF topic modeling, SentenceTransformer embeddings, clustering
-Apps        : Streamlit dashboards, FastAPI services
-Infra       : Docker, VS Code Dev Containers
-Explainability : SHAP / model interpretability
+Core           : Python, SQL, Pandas, NumPy
+Modeling       : Scikit-learn, XGBoost, LightGBM, CatBoost
+Deep / Time Series : PyTorch, Keras (LSTM), Prophet, time-aware cross-validation
+NLP & GenAI    : Hugging Face Transformers, SentenceTransformers, TF-IDF, NMF topic modeling, BERTopic-style clustering, RAG patterns
+Streaming / Big Data : Apache Kafka, PySpark (Structured Streaming)
+Apps & APIs    : Streamlit dashboards, FastAPI services
+Infra & MLOps  : Docker, VS Code Dev Containers, MLflow
+Explainability : SHAP, model interpretability (global & local)
+
 
 
 
