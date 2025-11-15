@@ -142,10 +142,14 @@ These are built like products, not class assignments.
 </p>
 
 **What it is**  
-- Designed a digital twin that simulates customer response to discounts and campaigns; estimated heterogeneous treatment effects and individualized treatment rules using T-/X-/DR-learners and causal forests.
-- Learns budget-constrained policies via contextual bandits and offline RL (CQL/BCQ); validated with IPS/DR/SNIPS showing higher uplift@k and lower regret vs business-as-usual and strong XGBoost baselines.
-- Productionized with Spark/Delta pipelines, feature store, MLflow model registry, FastAPI microservices, Docker/Kubernetes, CI/CD, and drift/data-quality monitoring (Evidently/Great Expectations).
+- Streaming pipeline that ingests multilingual social media posts via Kafka and enriches them with language detection, sentiment, and topic labels in near real time
+- NLP stack: Hugging Face transformers (XLM-R) in PyTorch for sentiment → multilingual sentence embeddings → BERTopic-style clustering for human-readable topics
+- Analytics layer: PySpark Structured Streaming + Postgres/ClickHouse + FastAPI/dashboard to explore sentiment trends, top topics, and language breakdowns by brand and time window
 
+**Why it matters**  
+- Acts as a real-time, multilingual “voice of customer” engine: brands can see what people are saying, in which language, and how sentiment shifts after a campaign or incident
+- Shows I can ship production-style NLP systems end-to-end: streaming data engineering, deep learning, topic modeling, APIs, and dashboards—not just offline notebooks
+- 
 **Status:** Private / request access
 
 
