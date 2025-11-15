@@ -1,7 +1,7 @@
 
 
 <!-- STATS -->
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=KnightBytePy&color=green)
 
 <h1 align="center">Hi 👋, I'm Fares</h1>
 
