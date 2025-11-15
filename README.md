@@ -59,7 +59,7 @@
 ## 🔥 Featured Projects
 These are built like products, not class assignments.
 
-### 1. Customer Churn Intelligence Dashboard <a href="https://fares-shawrma-churn-app.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE%20DEMO-Streamlit-brightgreen?style=for-the-badge&logo=streamlit" /></a>
+### 1. Customer Churn Intelligence Dashboard <a href="https://fares-shawrma-churn-shop.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE%20DEMO-Streamlit-brightgreen?style=for-the-badge&logo=streamlit" /></a>
 <p align="left">
   <!-- dashboard / analytics-style animated charts -->
   <img src="https://media.giphy.com/media/MZEIaQ799hT1VXMqz8/giphy.gif" width="400px"/>
