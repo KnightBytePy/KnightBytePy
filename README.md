@@ -135,7 +135,7 @@ These are built like products, not class assignments.
 
 ---
 
-### 5. State of the Art - Digital Twin Project using PyTorch | Transformers | MCP | RAG (In Progress)
+### 5. State of the Art - Streaming Multi-Lingual Sentiment & Topic Intelligence for Social Media | PyTorch | Transformers | MCP | RAG (In Progress)
 <p align="left">
   <!-- scrolling code / data stream vibe -->
   <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400px"/>
