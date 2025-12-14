@@ -151,7 +151,6 @@ These are built like products, not class assignments.
 - Shows I can ship production style NLP systems end-to-end: streaming data engineering, deep learning, topic modeling, APIs, and dashboards not just offline notebooks
   
 **Status:** Private / request access
-
 --- 
 
 ## 🛠 Tech Stack
