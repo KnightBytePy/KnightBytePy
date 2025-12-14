@@ -152,7 +152,6 @@ These are built like products, not class assignments.
   
 **Status:** Private / request access
 
-
 --- 
 
 ## 🛠 Tech Stack
