@@ -46,8 +46,7 @@
 
 ---
 
-## 🔥 Featured Projects
-These are built like products, not class assignments.
+## 🔥 Old Projects
 
 ### 1. Customer Churn Intelligence Dashboard <a href="https://fares-shawrma-churn-shop.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE%20DEMO-Streamlit-brightgreen?style=for-the-badge&logo=streamlit" /></a>
 <p align="left">
@@ -125,7 +124,7 @@ These are built like products, not class assignments.
 
 ---
 
-### 5. State of the Art - Streaming Multi-Lingual Sentiment & Topic Intelligence for Social Media | PyTorch | Transformers | MCP | RAG (In Progress)
+### 5. State of the Art - Streaming Multi-Lingual Sentiment & Topic Intelligence for Social Media | PyTorch | Transformers | MCP | RAG (Discontinued) 
 <p align="left">
   <!-- scrolling code / data stream vibe -->
   <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400px"/>
