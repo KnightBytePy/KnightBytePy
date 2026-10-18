@@ -13,7 +13,7 @@
 </p>
 
 
-<h2 align="center"> AI Researcher @ Ericsson | Data Scientist Master's @ McGill | Applied ML & AI</h2>
+<h2 align="center"> AI Researcher @ Ericsson | Master's of Data Science @ McGill | Applied ML & AI</h2>
 
 
 
