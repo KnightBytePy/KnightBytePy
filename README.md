@@ -39,7 +39,7 @@
 
 ## 🛰️ Featured Project
 
-### See It First: Satellites vs Humans — Wildfire Detection from Satellite Imagery
+### See It First: Satellites vs Humans - Wildfire Detection from Satellite Imagery
 <p align="center">
   <img src="assets/project_teaser.gif" width="720px"/>
 </p>
@@ -48,7 +48,7 @@
 - Computer vision on 6 years of daily NASA satellite imagery (VIIRS) of Alberta, trained to spot wildfires using NASA's own heat detections as labels
 - Benchmarked 5 models (U-Net, DeepLabV3+, SegFormer, 2 baselines) with a leakage-safe time split and a one-time frozen test on years no model had seen
 - Tested once on 2,230 wildfires Alberta recorded in 2023–2024: found 85–88% of large (100+ ha) fires, PR-AUC 4–11× a colour-threshold baseline
-- Over all 6 years (6,474 recorded fires), a satellite spotted only 15 before people reported them — mostly remote lightning fires
+- Over all 6 years (6,474 recorded fires), a satellite spotted only 15 before people reported them ,mostly remote lightning fires
 
 <p align="center">
   <img src="assets/who_saw_first.gif" width="480px"/>
