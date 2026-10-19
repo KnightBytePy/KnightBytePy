@@ -151,24 +151,10 @@
 - NLP stack: Hugging Face transformers (XLM-R) in PyTorch for sentiment → multilingual sentence embeddings → BERTopic-style clustering for human-readable topics
 - Analytics layer: PySpark Structured Streaming + Postgres/ClickHouse + FastAPI/dashboard to explore sentiment trends, top topics, and language breakdowns by brand and time window
 
-**Why it matters**  
-- Acts as a real-time, multilingual “voice of customer” engine: brands can see what people are saying, in which language, and how sentiment shifts after a campaign or incident
-- Shows I can ship production style NLP systems end-to-end: streaming data engineering, deep learning, topic modeling, APIs, and dashboards not just offline notebooks
-  
+    
 **Status:** Private / request access
 --- 
-
-## 🛠 Tech Stack
-```text
-Core : Python, SQL, Pandas, NumPy
-Modeling : Scikit-learn, XGBoost, LightGBM, CatBoost
-Deep / Time Series : PyTorch, Keras (LSTM), Prophet, time-aware cross-validation
-NLP & GenAI : Hugging Face Transformers, SentenceTransformers, TF-IDF, NMF topic modeling, BERTopic-style clustering, RAG patterns
-Streaming / Big Data : Apache Kafka, PySpark (Structured Streaming)
-Apps & APIs : Streamlit dashboards, FastAPI services
-Infra & MLOps : Docker, VS Code Dev Containers, MLflow
-Explainability : SHAP, model interpretability (global & local)
-
+<sub>Made by [Fares](https://github.com/KnightBytePy) · Master of Data Science @ McGill</sub>
 
 
 
