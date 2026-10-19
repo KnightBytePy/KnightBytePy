@@ -37,15 +37,6 @@
 
 ---
 
-## 🧠 What I Do
-- End-to-end ML: data → features → model → dashboard → decision
-- Forecasting & risk modeling in high-stakes settings (retail demand, credit risk, portfolio allocation)
-- Voice-of-customer NLP at scale (6M+ Steam reviews → topic clusters → player segments)
-- Explainable ML for non-technical stakeholders (SHAP, what-if simulation)
-- Reproducible delivery (Docker, VS Code Dev Containers)
-
----
-
 ## 🛰️ Featured Project
 
 ### See It First: Satellites vs Humans — Wildfire Detection from Satellite Imagery
